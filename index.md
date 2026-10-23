@@ -33,3 +33,5 @@ IndiaCos publishes one free report per Indian company, LLP or GST registration: 
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaCos. For the latest data and features, always check [IndiaCos](https://indiacos.com/) directly.
+
+See also: [IndiaCos MCP server and API quickstart](mcp.html).
