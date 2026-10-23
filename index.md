@@ -36,6 +36,7 @@ IndiaCos publishes one free report per Indian company, LLP or GST registration: 
 - [Vendor due diligence for Indian SMEs: a 5-step checklist](vendor-due-diligence-checklist.html)
 - [How to verify a GST number from an invoice in 30 seconds](verify-gstin-from-invoice.html)
 - [Finding every GST registration under one PAN, and why it matters](gst-registrations-under-one-pan.html)
+- [Is this lender RBI-registered? How to check an NBFC before you borrow or invest](check-nbfc-rbi-registration.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaCos. For the latest data and features, always check [IndiaCos](https://indiacos.com/) directly.
