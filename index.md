@@ -37,6 +37,8 @@ IndiaCos publishes one free report per Indian company, LLP or GST registration: 
 - [How to verify a GST number from an invoice in 30 seconds](verify-gstin-from-invoice.html)
 - [Finding every GST registration under one PAN, and why it matters](gst-registrations-under-one-pan.html)
 - [Is this lender RBI-registered? How to check an NBFC before you borrow or invest](check-nbfc-rbi-registration.html)
+- [Is your customer or supplier in insolvency? How to check public announcements](check-insolvency-announcements.html)
+- [How to check if a broker, adviser or fund is SEBI-registered](check-sebi-registration.html)
 
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaCos. For the latest data and features, always check [IndiaCos](https://indiacos.com/) directly.
