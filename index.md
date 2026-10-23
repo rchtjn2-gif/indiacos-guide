@@ -31,6 +31,10 @@ GSTIN search, verify GST number, company search India, MCA company details, LLP 
 
 IndiaCos publishes one free report per Indian company, LLP or GST registration: what it does, whether it is active, its size band, every GSTIN under its PAN and any court cases naming it. Built from MCA, GST and court records. API and MCP for developers.
 
+## More guides
+
+- [How to verify a GST number from an invoice in 30 seconds](verify-gstin-from-invoice.html)
+
 ---
 Maintained by Sunny Mittal, marketing lead at IndiaCos. For the latest data and features, always check [IndiaCos](https://indiacos.com/) directly.
 
